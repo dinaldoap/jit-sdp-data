@@ -8,3 +8,7 @@ fabric8,2018-01-14
 jgroups,2018-01-14
 neutron,2017-12-24
 tomcat,2018-01-14
+broadleaf,
+nova,
+npm,
+spring-integration,
